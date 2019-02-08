@@ -18,3 +18,4 @@
 16. [MNIST digits-RandomForest-KNN-Ensemble](https://github.com/jayashilin123/Task-07/blob/master/report04.md)
 17. [MNIST digits-PCA-SVM](https://github.com/jayashilin123/Task-07/blob/master/report05.md)
 18. [MNIST digits-QDA-LDA](https://github.com/jayashilin123/Task-07/blob/master/report06.md)
+19. [Wines - Neuralnetwork](https://github.com/jayashilin123/Task-08/blob/master/report.md)
