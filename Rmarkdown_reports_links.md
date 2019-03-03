@@ -24,3 +24,4 @@
 22. [Jaya Healthcare analytics Resume](https://github.com/jayashilin123/Reports/blob/master/Jaya%20Healthcare%20analytics%20Resume.pdf)
 23. [Upgrad Accolade](https://github.com/jayashilin123/Reports/blob/master/Upgrad_Appreciation.jpg)
 24. [Medicare NPI Physicians and Other Suppliers Payment Aggregate Report 2015](https://github.com/jayashilin123/Reports/blob/master/MedicareProviderPaymentAggregateRpt2015.pdf)
+25. [The Data Science of Health Informatics](https://github.com/jayashilin123/Reports/blob/master/The%20Data%20Science%20of%20Health%20Informatics%20-%20Home%20_%20Coursera.pdf)
