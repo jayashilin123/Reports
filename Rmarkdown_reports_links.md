@@ -24,4 +24,4 @@
 22. [Jaya Healthcare analytics Resume](https://github.com/jayashilin123/Reports/blob/master/Jaya%20DataScience%20Resume.pdf)
 23. [Upgrad Accolade](https://github.com/jayashilin123/Reports/blob/master/Upgrad_Appreciation.jpg)
 24. [Medicare NPI Physicians and Other Suppliers Payment Aggregate Report 2015](https://github.com/jayashilin123/Reports/blob/master/MedicareProviderPaymentAggregateRpt2015.pdf)
-[Hero Genius Legend](https://github.com/jayashilin123/Reports/blob/master/Hero%20Genius%20Legend.md)
+25. [Hero Genius Legend](https://github.com/jayashilin123/Reports/blob/master/Hero%20Genius%20Legend.md)
