@@ -2,7 +2,9 @@
 
 Data: https://www.europeandataportal.eu/data/en/dataset/deaths-from-all-cancers
 
-ONS geography name for the geography in which the data is located, Number of Deaths Age Under 75, Persons and Directly Age-Standardized Rate (DASR) of Deaths per 100,000 population of Persons Age Under 75
+-- ONS geography name for the geography in which the data is located
+-- Number of Deaths Age Under 75, Persons
+-- Directly Age-Standardized Rate (DASR) of Deaths per 100,000 population of Persons Age Under 75
 
 ![Person Death](https://github.com/jayashilin123/Reports/blob/master/person.jpg)
 
