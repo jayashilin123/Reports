@@ -100,6 +100,8 @@ group by year(from_unixtime(unixreviewtime)):
 | 2004 | 5159 |
 | 2011 | 173395 |
 | 2013 | 592748 |
+
+![Year vs Review count](https://github.com/jayashilin123/Reports/blob/master/pic/plot01.jpg)
 ___
 
 PARTITION THE DATA
@@ -146,6 +148,8 @@ group by overall:
 | 3.0 | 36 |
 | 4.0 | 71 |
 | 5.0 | 180 |
+
+![overall rating vs review count](https://github.com/jayashilin123/Reports/blob/master/pic/plot02.jpg)
 ___
 
 CLUSTERING/BUCKETING
@@ -191,6 +195,8 @@ Reproducing few results for ref
 | 5 | 2346 |
 | 6	| 1694 |
 | 7	| 1180 |
+
+![product vs popularity](https://github.com/jayashilin123/Reports/blob/master/pic/plot-3.jpg)
 ___
 
 CORRELATION BETWEEN REVEWTEXT AND RATING
@@ -243,6 +249,17 @@ from electronics_columns_s3_partitioned_year_month_orc
 where yr = 2013 and mnth = 1
 group by size(split(reviewtext, ' '));
 ~~~
+| words	| _c1 |
+| --- | --- |
+| 4	| 5 |
+| 5	| 5 |
+| 9	| 3.714285714 |
+| 10	| 3 |
+| 12	| 4.414	|
+| 14 | 4.727272727 |
+| 16 | 4.651515152 |
+
+![word vs avg_rating](https://github.com/jayashilin123/Reports/blob/master/pic/plot04.jpg)
 ___
 
 TEXT ANALYSIS USING (N-GRAM)
