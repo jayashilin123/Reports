@@ -2,7 +2,7 @@
 
 Data: json data of 1.4GB file stored in AWS 's3://hivedatajkv/Amazon-review' folder.
 
-Analysis: Analysis is done with the help of AWS EC2 and EMR. Running instances of 1 Master and 2 Slaves are used here. Connection of Master instance to local machine is done through windows, with help of SSH and key-pair, with help of PuttyGen and Putty programs. Data is queried in Hue - Hive editor. 
+Analysis: Analysis is done with the help of AWS EC2 and EMR. Running instances of 1 Master and 2 Slaves are used here. The connection of Master instance to the local machine is done through windows, with the help of SSH and key-pair, with PuttyGen and Putty programs. Data is queried in Hue - Hive editor. 
 
 CREATE EXTERNAL TABLE ON JSONDUMP DATA
 
@@ -64,7 +64,7 @@ from electronics_columns_s3;
 | --- | --- | --- | --- | --- |
 | 1689188 | 192403 | 63001 | 929232000 | 1406073600 |
 
-__
+___
 
 AVERAGE REVIEWS PER REVIEWER
 
