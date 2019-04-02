@@ -1,4 +1,7 @@
+## Analysis of Amazon product review data
 
+Data: json data of 1.4GB file stored in AWS 's3://hivedatajkv/Amazon-review' folder.
+Anaysis: Analysis is done with the help of AWS EC2 and EMR. Running instances of 1 Master and 2 Slaves are used here. Connection of Master instance to local machine is done through windows, with help of SSH and key-pair, with help of PuttyGen and Putty programs. Data is queried in Hue - Hive editor. 
 
 CREATE EXTERNAL TABLE ON JSONDUMP DATA
 
