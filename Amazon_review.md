@@ -59,6 +59,7 @@ from electronics_columns_s3;
 | review_count | reviewer_count | product_count | min_time | max_time |
 | --- | --- | --- | --- | --- |
 | 1689188 | 192403 | 63001 | 929232000 | 1406073600 |
+
 __
 
 AVERAGE REVIEWS PER REVIEWER
