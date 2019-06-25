@@ -28,5 +28,4 @@
 26. [AWS QuickSight Visualization](https://github.com/jayashilin123/Reports/blob/master/AWS%20QuickSight%20Visualization.md)
 27. [AWS-S3-HDFS-EC2-EMR-HUE-Hive: Amazon Product Review](https://github.com/jayashilin123/Reports/blob/master/Amazon_review.md)
 28. [ML on KAGGLE Dataset](https://github.com/jayashilin123/Task10/blob/master/Indian_liver_patient_record.md)
-29. [Professional Certificate Program: Data Science](https://courses.edx.org/dashboard/programs/3c32e3e0-b6fe-4ee4-bd4f-210c6339e074/)
-30. [Certificate DS HarvardX](https://github.com/jayashilin123/Reports/blob/master/Professional%20Certificate%20_%20edX%20Credentials.pdf)
+29. [Certificate DS HarvardX](https://github.com/jayashilin123/Reports/blob/master/Professional%20Certificate%20_%20edX%20Credentials.pdf)
