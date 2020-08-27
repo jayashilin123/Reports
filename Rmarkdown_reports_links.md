@@ -30,3 +30,5 @@
 28. [ML on KAGGLE Dataset](https://github.com/jayashilin123/Task10/blob/master/Indian_liver_patient_record.md)
 29. [Post Graduate Diploma In Data Analytics](https://github.com/jayashilin123/Reports/blob/master/IIITB.md)
 30. [Certificate DS HarvardX](https://github.com/jayashilin123/Reports/blob/master/Professional%20Certificate%20_%20edX%20Credentials.pdf)
+31. [Clinical Data Science Certification](https://github.com/jayashilin123/Reports/blob/master/myPic/Coursera%20SGVPT4DBUXRH.pdf)
+
