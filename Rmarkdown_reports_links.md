@@ -21,9 +21,6 @@
 19. [Wines - Neuralnetwork](https://github.com/jayashilin123/Task-08/blob/master/report.md)
 20. [Tissue Gene Expression](https://github.com/jayashilin123/Task-09/blob/master/report.md)
 21. [Data Science Harvard University](https://credentials.edx.org/records/programs/shared/62d81507b7974afb984141c00a8032e7/)
-22. [Jaya Healthcare analytics Resume](https://github.com/jayashilin123/Reports/blob/master/Jaya%20DataScience%20Resume.pdf)
-23. [Upgrad Accolade](https://github.com/jayashilin123/Reports/blob/master/Upgrad_Appreciation.jpg)
-24. [Medicare NPI Physicians and Other Suppliers Payment Aggregate Report 2015](https://github.com/jayashilin123/Reports/blob/master/Medicare%20Physicians%20and%20Other%20Suppliers%20Payment%20Aggregate%20report%202015.pdf)
 25. [Hero Genius Legend](https://github.com/jayashilin123/Reports/blob/master/Hero%20Genius%20Legend.md)
 26. [AWS QuickSight Visualization](https://github.com/jayashilin123/Reports/blob/master/AWS%20QuickSight%20Visualization.md)
 27. [AWS-S3-HDFS-EC2-EMR-HUE-Hive: Amazon Product Review](https://github.com/jayashilin123/Reports/blob/master/Amazon_review.md)
@@ -31,4 +28,3 @@
 29. [Post Graduate Diploma In Data Analytics](https://github.com/jayashilin123/Reports/blob/master/IIITB.md)
 30. [Certificate DS HarvardX](https://github.com/jayashilin123/Reports/blob/master/Professional%20Certificate%20_%20edX%20Credentials.pdf)
 31. [Clinical Data Science Certification](https://github.com/jayashilin123/Reports/blob/master/myPic/Coursera%20SGVPT4DBUXRH.pdf)
-
