@@ -29,3 +29,4 @@
 29. [Post Graduate Diploma In Data Analytics](https://github.com/jayashilin123/Reports/blob/master/IIITB.md)
 30. [Certificate DS HarvardX](https://github.com/jayashilin123/Reports/blob/master/Professional%20Certificate%20_%20edX%20Credentials.pdf)
 31. [Clinical Data Science Certification](https://github.com/jayashilin123/Reports/blob/master/myPic/Coursera%20SGVPT4DBUXRH.pdf)
+32. [Image Processing & Prediction RNN](https://github.com/jayashilin123/task009/blob/main/Resnet%20NN%20Flowers%20Rose%20vs%20daisy.pdf).
