@@ -31,3 +31,4 @@
 31. [Clinical Data Science Certification](https://github.com/jayashilin123/Reports/blob/master/myPic/Coursera%20SGVPT4DBUXRH.pdf)
 32. [Image Processing & Prediction RNN](https://github.com/jayashilin123/task009/blob/main/Resnet%20NN%20Flowers%20Rose%20vs%20daisy.pdf).
 33. [Jaya Profile](https://github.com/jayashilin123/Reports/blob/master/JayaV%20Profile%20Bangalore%2C%20India.pdf).
+34. [Hands on Clinical Reporting using R](https://github.com/jayashilin123/Reports/blob/master/Hands%20on%20Clinical%20reporting%20using%20R_Certificate.pdf).
